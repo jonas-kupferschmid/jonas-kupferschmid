@@ -1,0 +1,20 @@
+
+
+h1, h3,
+.top-search-form input,
+.form-control:focus{
+  color: #9a81e1;
+}
+
+
+.portfolio-desc h3 a,
+.menu-link{
+	color: #8d71dd;
+}
+.portfolio-desc span, .portfolio-desc span a{
+	color: #8d71dd;
+}
+
+.sticky-header #header-wrap{
+	background-color: #c7b3ff;
+}

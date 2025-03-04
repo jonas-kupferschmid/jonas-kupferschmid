@@ -1,0 +1,25 @@
+.yt-embedded {
+	width: 90%;
+	max-width: 700px;
+	height: auto;
+}
+
+p{
+	text-indent: 2rem;
+	text-align: justify;
+}
+
+.nomargin{
+	margin: 0 0 0 0;
+}
+.smallmargin{
+	margin: 0 0 7px 0;
+}
+
+li p {
+	text-indent: 0;
+}
+
+a {
+	color: inherit;
+}
