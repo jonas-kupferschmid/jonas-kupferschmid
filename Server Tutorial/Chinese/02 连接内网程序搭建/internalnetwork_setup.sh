@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# 配置
+# ⚠️⚠️⚠️修改配置⚠️⚠️⚠️
 LATEST_RELEASE="https://api.github.com/repos/v2fly/v2ray-core/releases/latest"
 INSTALL_DIR="/opt/v2ray"
-DEFAULT_PORT=58
-DEFAULT_PASSWORD="XinDongDeVPN123"  # 默认 Shadowsocks 密码，可替换
+DEFAULT_PORT=58 # 默认 Shadowsocks 端口
+DEFAULT_PASSWORD="XinDongDeShuJuKu123"  # 默认 Shadowsocks 密码，可替换
 SERVICE_FILE="/etc/systemd/system/v2ray.service"
 
 # 确保以 root 用户运行脚本
@@ -41,8 +41,8 @@ if [[ "$USE_DEFAULTS" =~ [Yy] ]]; then
 else
   # 输入端口号
   while true; do
-    read -p "请输入端口号 (1024-65535): " PORT
-    [[ $PORT =~ ^[0-9]+$ ]] && [ $PORT -ge 1024 ] && [ $PORT -le 65535 ] && break
+    read -p "请输入端口号 (1-65535): " PORT
+    [[ $PORT =~ ^[0-9]+$ ]] && [ $PORT -ge 1 ] && [ $PORT -le 65535 ] && break
     echo "端口号无效！"
   done
 
@@ -185,7 +185,7 @@ echo "加密方法: aes-128-gcm"
 echo "========================"
 
 # 生成 Shadowsocks URL 并显示二维码
-SS_URL="ss://$(echo -n "aes-128-gcm:$SS_PASSWORD@$PUBLIC_IP:$PORT" | base64 -w 0)#V2RayVPN"
+SS_URL="ss://$(echo -n "aes-128-gcm:$SS_PASSWORD@$PUBLIC_IP:$PORT" | base64 -w 0)#V2Ray"
 echo -e "\n二维码:"
 echo "$SS_URL" | qrencode -t UTF8
 echo -e "\nShadowsocks URL: $SS_URL"
