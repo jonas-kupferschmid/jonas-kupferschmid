@@ -496,7 +496,7 @@ h1, h3,
 	top: 0;
 	width: 700px;
 	height: 100%;
-	background-image: url('images/footer.svg');
+	background-image: url('/images/footer.svg');
 	background-repeat: no-repeat;
 	background-position: 100% 90%;
 	background-size: 700px auto;

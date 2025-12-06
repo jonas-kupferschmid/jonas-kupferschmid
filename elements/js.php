@@ -1,2 +1,2 @@
-<script src="/student/jkupfersc/js/jquery.js"></script>
-<script src="/student/jkupfersc/js/plugins.min.js"></script>
+<script src="/js/jquery.js"></script>
+<script src="/js/plugins.min.js"></script>

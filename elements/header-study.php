@@ -6,8 +6,8 @@
         <!-- Logo
         ============================================= -->
         <div id="logo" class="me-lg-5">
-          <a href="/student/jkupfersc/index.php" class="standard-logo" data-dark-logo="/student/jkupfersc/images/logo/jonas-logo-dark.png"><img src="/student/jkupfersc/images/logo/jonas-logo.png"  alt="Jonas Logo"></a>
-          <a href="/student/jkupfersc/index.php" class="retina-logo" data-dark-logo="/student/jkupfersc/images/logo/jonas-logo-dark@2x.png"><img src="/student/jkupfersc/images/logo/jonas-logo@2x.png"  alt="Jonas Logo"></a>
+          <a href="/index.html" class="standard-logo" data-dark-logo="/images/logo/jonas-logo-dark.png"><img src="/images/logo/jonas-logo.png"  alt="Jonas Logo"></a>
+          <a href="/index.html" class="retina-logo" data-dark-logo="/images/logo/jonas-logo-dark@2x.png"><img src="/images/logo/jonas-logo@2x.png"  alt="Jonas Logo"></a>
         </div><!-- #logo end -->
 
         <div class="header-misc">
@@ -32,25 +32,25 @@
           <ul class="menu-container">
             <!-- Highschool Menu -->
             <li class="menu-item mega-menu">
-              <a class="menu-link" href="/student/jkupfersc/education/high-school.php"><div><s>High School</s></div></a>
+              <a class="menu-link" href="/education/high-school.html"><div><s>High School</s></div></a>
               <div class="mega-menu-content mega-menu-style-2">
                 <div class="container">
                   <div class="row">
                     <ul class="sub-menu-container mega-menu-column col-lg-3">
                       <li class="menu-item mega-menu-title">
-                        <a class="menu-link" href="/student/jkupfersc/education/high-school.php#1st-year"><div>1st year</div></a>
+                        <a class="menu-link" href="/education/high-school.html#1st-year"><div>1st year</div></a>
                         <ul class="sub-menu-container">
                           <li class="menu-item">
                             <a class="menu-link" href="#"><div>Languages</div></a>
                             <ul class="sub-menu-container mega-menu-dropdown">
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/1st-year/german.php" style="text-transform:none"><div>German</div></a>
+                                <a class="menu-link" href="/education/high-school/1st-year/german.html" style="text-transform:none"><div>German</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/1st-year/french.php" style="text-transform:none"><div>French</div></a>
+                                <a class="menu-link" href="/education/high-school/1st-year/french.html" style="text-transform:none"><div>French</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/1st-year/english.php" style="text-transform:none"><div>English</div></a>
+                                <a class="menu-link" href="/education/high-school/1st-year/english.html" style="text-transform:none"><div>English</div></a>
                               </li>
                             </ul>
                           </li>
@@ -58,49 +58,49 @@
                             <a class="menu-link" href="#"><div>Sciences</div></a>
                             <ul class="sub-menu-container mega-menu-dropdown">
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/1st-year/math.php" style="text-transform:none"><div>Math</div></a>
+                                <a class="menu-link" href="/education/high-school/1st-year/math.html" style="text-transform:none"><div>Math</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/1st-year/chemistry.php" style="text-transform:none"><div>Chemistry</div></a>
+                                <a class="menu-link" href="/education/high-school/1st-year/chemistry.html" style="text-transform:none"><div>Chemistry</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/1st-year/biology.php" style="text-transform:none"><div>Biology</div></a>
+                                <a class="menu-link" href="/education/high-school/1st-year/biology.html" style="text-transform:none"><div>Biology</div></a>
                               </li>
                             </ul>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/1st-year/history.php" style="text-transform:none"><div>History</div></a>
+                            <a class="menu-link" href="/education/high-school/1st-year/history.html" style="text-transform:none"><div>History</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/1st-year/geography.php" style="text-transform:none"><div>Geography</div></a>
+                            <a class="menu-link" href="/education/high-school/1st-year/geography.html" style="text-transform:none"><div>Geography</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/1st-year/visual-arts.php" style="text-transform:none"><div>Visual Arts</div></a>
+                            <a class="menu-link" href="/education/high-school/1st-year/visual-arts.html" style="text-transform:none"><div>Visual Arts</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/1st-year/economy-&-law.php" style="text-transform:none"><div>Economy &amp Law</div></a>
+                            <a class="menu-link" href="/education/high-school/1st-year/economy-&-law.html" style="text-transform:none"><div>Economy &amp Law</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/1st-year/digital-society-&-its-media.php" style="text-transform:none"><div>Digital Society and its Media</div></a>
+                            <a class="menu-link" href="/education/high-school/1st-year/digital-society-&-its-media.html" style="text-transform:none"><div>Digital Society and its Media</div></a>
                           </li>
                         </ul>
                       </li>
                     </ul>
                     <ul class="sub-menu-container mega-menu-column col-lg-3">
                       <li class="menu-item mega-menu-title">
-                        <a class="menu-link" href="/student/jkupfersc/education/high-school.php#2nd-year"><div>2nd year</div></a>
+                        <a class="menu-link" href="/education/high-school.html#2nd-year"><div>2nd year</div></a>
                         <ul class="sub-menu-container">
                           <li class="menu-item">
                             <a class="menu-link" href="#"><div>Languages</div></a>
                             <ul class="sub-menu-container mega-menu-dropdown">
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/german.php" style="text-transform:none"><div>German</div></a>
+                                <a class="menu-link" href="/education/high-school/2nd-year/german.html" style="text-transform:none"><div>German</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/french.php" style="text-transform:none"><div>French</div></a>
+                                <a class="menu-link" href="/education/high-school/2nd-year/french.html" style="text-transform:none"><div>French</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/english.php" style="text-transform:none"><div>English</div></a>
+                                <a class="menu-link" href="/education/high-school/2nd-year/english.html" style="text-transform:none"><div>English</div></a>
                               </li>
                             </ul>
                           </li>
@@ -108,52 +108,52 @@
                             <a class="menu-link" href="#"><div>Sciences</div></a>
                             <ul class="sub-menu-container mega-menu-dropdown">
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/math.php" style="text-transform:none"><div>Math</div></a>
+                                <a class="menu-link" href="/education/high-school/2nd-year/math.html" style="text-transform:none"><div>Math</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/physics.php" style="text-transform:none"><div>Physics</div></a>
+                                <a class="menu-link" href="/education/high-school/2nd-year/physics.html" style="text-transform:none"><div>Physics</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/chemistry.php" style="text-transform:none"><div>Chemistry</div></a>
+                                <a class="menu-link" href="/education/high-school/2nd-year/chemistry.html" style="text-transform:none"><div>Chemistry</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/biology.php" style="text-transform:none"><div>Biology</div></a>
+                                <a class="menu-link" href="/education/high-school/2nd-year/biology.html" style="text-transform:none"><div>Biology</div></a>
                               </li>
                             </ul>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/history.php" style="text-transform:none"><div>History</div></a>
+                            <a class="menu-link" href="/education/high-school/2nd-year/history.html" style="text-transform:none"><div>History</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/geography.php" style="text-transform:none"><div>Geography</div></a>
+                            <a class="menu-link" href="/education/high-school/2nd-year/geography.html" style="text-transform:none"><div>Geography</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/visual-arts.php" style="text-transform:none"><div>Visual Arts</div></a>
+                            <a class="menu-link" href="/education/high-school/2nd-year/visual-arts.html" style="text-transform:none"><div>Visual Arts</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/economy-&-law.php" style="text-transform:none"><div>Economy &amp Law</div></a>
+                            <a class="menu-link" href="/education/high-school/2nd-year/economy-&-law.html" style="text-transform:none"><div>Economy &amp Law</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/2nd-year/digital-society-&-its-media.php" style="text-transform:none"><div>Digital Society and its Media</div></a>
+                            <a class="menu-link" href="/education/high-school/2nd-year/digital-society-&-its-media.html" style="text-transform:none"><div>Digital Society and its Media</div></a>
                           </li>
                         </ul>
                       </li>
                     </ul>
                     <ul class="sub-menu-container mega-menu-column col-lg-3">
                       <li class="menu-item mega-menu-title">
-                        <a class="menu-link" href="/student/jkupfersc/education/high-school.php#3rd-year"><div>3rd year</div></a>
+                        <a class="menu-link" href="/education/high-school.html#3rd-year"><div>3rd year</div></a>
                         <ul class="sub-menu-container">
                           <li class="menu-item">
                             <a class="menu-link" href="#"><div>Languages</div></a>
                             <ul class="sub-menu-container mega-menu-dropdown">
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/german.php" style="text-transform:none"><div>German</div></a>
+                                <a class="menu-link" href="/education/high-school/3rd-year/german.html" style="text-transform:none"><div>German</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/french.php" style="text-transform:none"><div>French</div></a>
+                                <a class="menu-link" href="/education/high-school/3rd-year/french.html" style="text-transform:none"><div>French</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/english.php" style="text-transform:none"><div>English</div></a>
+                                <a class="menu-link" href="/education/high-school/3rd-year/english.html" style="text-transform:none"><div>English</div></a>
                               </li>
                             </ul>
                           </li>
@@ -161,40 +161,40 @@
                             <a class="menu-link" href="#"><div>Sciences</div></a>
                             <ul class="sub-menu-container mega-menu-dropdown">
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/math.php" style="text-transform:none"><div>Math</div></a>
+                                <a class="menu-link" href="/education/high-school/3rd-year/math.html" style="text-transform:none"><div>Math</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/physics.php" style="text-transform:none"><div>Physics</div></a>
+                                <a class="menu-link" href="/education/high-school/3rd-year/physics.html" style="text-transform:none"><div>Physics</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/chemistry.php" style="text-transform:none"><div>Chemistry</div></a>
+                                <a class="menu-link" href="/education/high-school/3rd-year/chemistry.html" style="text-transform:none"><div>Chemistry</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/biology.php" style="text-transform:none"><div>Biology</div></a>
+                                <a class="menu-link" href="/education/high-school/3rd-year/biology.html" style="text-transform:none"><div>Biology</div></a>
                               </li>
                             </ul>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/history.php" style="text-transform:none"><div>History</div></a>
+                            <a class="menu-link" href="/education/high-school/3rd-year/history.html" style="text-transform:none"><div>History</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/geography.php" style="text-transform:none"><div>Geography</div></a>
+                            <a class="menu-link" href="/education/high-school/3rd-year/geography.html" style="text-transform:none"><div>Geography</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/visual-arts.php" style="text-transform:none"><div>Visual Arts</div></a>
+                            <a class="menu-link" href="/education/high-school/3rd-year/visual-arts.html" style="text-transform:none"><div>Visual Arts</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/economy-&-law.php" style="text-transform:none"><div>Economy &amp Law</div></a>
+                            <a class="menu-link" href="/education/high-school/3rd-year/economy-&-law.html" style="text-transform:none"><div>Economy &amp Law</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/3rd-year/theory-of-knowledge.php" style="text-transform:none"><div>Theory of Knowledge</div></a>
+                            <a class="menu-link" href="/education/high-school/3rd-year/theory-of-knowledge.html" style="text-transform:none"><div>Theory of Knowledge</div></a>
                           </li>
                         </ul>
                       </li>
                     </ul>
                     <ul class="sub-menu-container mega-menu-column col-lg-3">
                       <li class="menu-item mega-menu-title">
-                        <a class="menu-link" href="/student/jkupfersc/education/high-school.php#4th-year"><div>4th year</div></a>
+                        <a class="menu-link" href="/education/high-school.html#4th-year"><div>4th year</div></a>
                         <ul class="sub-menu-container">
                           <li class="menu-item">
                             <a class="menu-link" href="#" style="text-transform:none"><div>Extended Essay</div></a>
@@ -203,13 +203,13 @@
                             <a class="menu-link" href="#"><div>Languages</div></a>
                             <ul class="sub-menu-container mega-menu-dropdown">
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/4th-year/german.php" style="text-transform:none"><div>German</div></a>
+                                <a class="menu-link" href="/education/high-school/4th-year/german.html" style="text-transform:none"><div>German</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/4th-year/french.php" style="text-transform:none"><div>French</div></a>
+                                <a class="menu-link" href="/education/high-school/4th-year/french.html" style="text-transform:none"><div>French</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/4th-year/english.php" style="text-transform:none"><div>English</div></a>
+                                <a class="menu-link" href="/education/high-school/4th-year/english.html" style="text-transform:none"><div>English</div></a>
                               </li>
                             </ul>
                           </li>
@@ -217,148 +217,24 @@
                             <a class="menu-link" href="#"><div>Sciences</div></a>
                             <ul class="sub-menu-container mega-menu-dropdown">
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/4th-year/math.php" style="text-transform:none"><div>Math</div></a>
+                                <a class="menu-link" href="/education/high-school/4th-year/math.html" style="text-transform:none"><div>Math</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/4th-year/physics.php" style="text-transform:none"><div>Physics</div></a>
+                                <a class="menu-link" href="/education/high-school/4th-year/physics.html" style="text-transform:none"><div>Physics</div></a>
                               </li>
                               <li class="menu-item">
-                                <a class="menu-link" href="/student/jkupfersc/education/high-school/4th-year/biology.php" style="text-transform:none"><div>Biology</div></a>
+                                <a class="menu-link" href="/education/high-school/4th-year/biology.html" style="text-transform:none"><div>Biology</div></a>
                               </li>
                             </ul>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/4th-year/history.php" style="text-transform:none"><div>History</div></a>
+                            <a class="menu-link" href="/education/high-school/4th-year/history.html" style="text-transform:none"><div>History</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/4th-year/economy-&-law.php" style="text-transform:none"><div>Economy &amp Law</div></a>
+                            <a class="menu-link" href="/education/high-school/4th-year/economy-&-law.html" style="text-transform:none"><div>Economy &amp Law</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/high-school/4th-year/theory-of-knowledge.php" style="text-transform:none"><div>Theory of Knowledge</div></a>
-                          </li>
-                        </ul>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </li>
-            <li class="menu-item mega-menu">
-              <a class="menu-link" href="/student/jkupfersc/education/eth.php#Foundation"><div><s>College ETH - Foundations</s></div></a>
-              <div class="mega-menu-content mega-menu-style-2">
-                <div class="container">
-                  <div class="row">
-                    <ul class="sub-menu-container mega-menu-column col-lg-3">
-                      <li class="menu-item mega-menu-title">
-                        <a class="menu-link" href="/student/jkupfersc/education/eth.php#1st-semester"><div><s>1st Semester Bachelor</s></div></a>
-                        <ul class="sub-menu-container">
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/1st-sem/digital-circuits.php" style="text-transform:none" ><div>Digital Circuits</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/1st-sem/linear-algebra.php" style="text-transform:none"><div>Linear Algebra</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/1st-sem/networks-&-circuits-i.php" style="text-transform:none"><div>Networks &amp Circuits I</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/1st-sem/engineering-mechanics.php" style="text-transform:none"><div>Engineering Mechanics</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/1st-sem/digital-circuits-lab.php" style="text-transform:none"><div>Digital Circuits Lab</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/1st-sem/computer-science-prep.php" style="text-transform:none"><div>Computer Science Prep. Course</div></a>
-                          </li>
-                        </ul>
-                      </li>
-                    </ul>
-                    <ul class="sub-menu-container mega-menu-column col-lg-3">
-                      <li class="menu-item mega-menu-title">
-                        <a class="menu-link" href="/student/jkupfersc/education/eth.php#2nd-semester"><div><s>2nd Semester Bachelor</s></div></a>
-                        <ul class="sub-menu-container">
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/2nd-sem/analysis-1-&-2.php" style="text-transform:none"><div>Analysis I &amp II</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/2nd-sem/computer-science-2.php" style="text-transform:none"><div>Computer Science I</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/2nd-sem/complex-analysis.php" style="text-transform:none"><div>Complex Analysis</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/2nd-sem/networks-&-circuits-2.php" style="text-transform:none"><div>Networks &amp Circuits II</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/2nd-sem/physics-1.php" style="text-transform:none"><div>Physics I</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/2nd-sem/networks-&-circuits-lab.php" style="text-transform:none"><div>Networks &amp Circuits Lab</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/2nd-sem/entrepreneurship.php" style="text-transform:none"><div>Entrepreneurship</div></a>
-                          </li>
-                        </ul>
-                      </li>
-                    </ul>
-                    <ul class="sub-menu-container mega-menu-column col-lg-3">
-                      <li class="menu-item mega-menu-title">
-                        <a class="menu-link" href="/student/jkupfersc/education/eth.php#3rd-semester"><div><s>3rd Semester Bachelor</s></div></a>
-                        <ul class="sub-menu-container">
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/3rd-sem/analysis-3.php" style="text-transform:none"><div>Analysis III</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/3rd-sem/physics-2.php" style="text-transform:none"><div>Physics II (Quantum Mechanics)</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/3rd-sem/signals-&-systems-1.php" style="text-transform:none"><div>Signals &amp Systems 1</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/3rd-sem/computer-science-2.php" style="text-transform:none"><div>Computer Science II</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/3rd-sem/electronic-circuits-lab.php" style="text-transform:none"><div>Electronic Circuits Lab</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/3rd-sem/embedded-deep-learning-huawei-atlas.php" style="text-transform:none"><div>Embedded Deep Learning with Huawei Atlas 200 AI Dev Kit</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/3rd-sem/introduction-to-microeconomics.php" style="text-transform:none"><div>Introduction to Microeconomics</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/3rd-sem/financial-market-risks.php" style="text-transform:none"><div>	Financial Market Risks</div></a>
-                          </li>
-                        </ul>
-                      </li>
-                    </ul>
-                    <ul class="sub-menu-container mega-menu-column col-lg-3">
-                      <li class="menu-item mega-menu-title">
-                        <a class="menu-link" href="/student/jkupfersc/education/eth.php#4th-semester"><div><s>4th Semester Bachelor</s></div></a>
-                        <ul class="sub-menu-container">
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/4th-sem/computer-engineering.php" style="text-transform:none"><div>Computer Engineering</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/4th-sem/signal-&-systems-2.php" style="text-transform:none"><div>Signals &amp Systems 2</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/4th-sem/electronic-circuits.php" style="text-transform:none"><div>Electronic Circuits</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/4th-sem/discrete-mathematics.php" style="text-transform:none"><div>Discrete Mathematics</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/4th-sem/numerical-methods.php" style="text-transform:none"><div>Numerical Methods</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/4th-sem/electromagnetic-fields-&-waves.php" style="text-transform:none"><div>Electromagnetic Fields &amp Waves</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/4th-sem/semiconductor-devices.php" style="text-transform:none"><div>Semiconductor Devices</div></a>
-                          </li>
-                          <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/4th-sem/probability-theory-&-statistics.php" style="text-transform:none"><div>Probability Theory &amp Statistics</div></a>
+                            <a class="menu-link" href="/education/high-school/4th-year/theory-of-knowledge.html" style="text-transform:none"><div>Theory of Knowledge</div></a>
                           </li>
                         </ul>
                       </li>
@@ -368,89 +244,213 @@
               </div>
             </li>
             <li class="menu-item mega-menu">
-              <a class="menu-link" href="/student/jkupfersc/education/eth.php#Core"><div>College ETH - Core</div></a>
+              <a class="menu-link" href="/education/eth.html#Foundation"><div><s>College ETH - Foundations</s></div></a>
+              <div class="mega-menu-content mega-menu-style-2">
+                <div class="container">
+                  <div class="row">
+                    <ul class="sub-menu-container mega-menu-column col-lg-3">
+                      <li class="menu-item mega-menu-title">
+                        <a class="menu-link" href="/education/eth.html#1st-semester"><div><s>1st Semester Bachelor</s></div></a>
+                        <ul class="sub-menu-container">
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/1st-sem/digital-circuits.html" style="text-transform:none" ><div>Digital Circuits</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/1st-sem/linear-algebra.html" style="text-transform:none"><div>Linear Algebra</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/1st-sem/networks-&-circuits-i.html" style="text-transform:none"><div>Networks &amp Circuits I</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/1st-sem/engineering-mechanics.html" style="text-transform:none"><div>Engineering Mechanics</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/1st-sem/digital-circuits-lab.html" style="text-transform:none"><div>Digital Circuits Lab</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/1st-sem/computer-science-prep.html" style="text-transform:none"><div>Computer Science Prep. Course</div></a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                    <ul class="sub-menu-container mega-menu-column col-lg-3">
+                      <li class="menu-item mega-menu-title">
+                        <a class="menu-link" href="/education/eth.html#2nd-semester"><div><s>2nd Semester Bachelor</s></div></a>
+                        <ul class="sub-menu-container">
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/2nd-sem/analysis-1-&-2.html" style="text-transform:none"><div>Analysis I &amp II</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/2nd-sem/computer-science-2.html" style="text-transform:none"><div>Computer Science I</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/2nd-sem/complex-analysis.html" style="text-transform:none"><div>Complex Analysis</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/2nd-sem/networks-&-circuits-2.html" style="text-transform:none"><div>Networks &amp Circuits II</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/2nd-sem/physics-1.html" style="text-transform:none"><div>Physics I</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/2nd-sem/networks-&-circuits-lab.html" style="text-transform:none"><div>Networks &amp Circuits Lab</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/2nd-sem/entrepreneurship.html" style="text-transform:none"><div>Entrepreneurship</div></a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                    <ul class="sub-menu-container mega-menu-column col-lg-3">
+                      <li class="menu-item mega-menu-title">
+                        <a class="menu-link" href="/education/eth.html#3rd-semester"><div><s>3rd Semester Bachelor</s></div></a>
+                        <ul class="sub-menu-container">
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/3rd-sem/analysis-3.html" style="text-transform:none"><div>Analysis III</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/3rd-sem/physics-2.html" style="text-transform:none"><div>Physics II (Quantum Mechanics)</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/3rd-sem/signals-&-systems-1.html" style="text-transform:none"><div>Signals &amp Systems 1</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/3rd-sem/computer-science-2.html" style="text-transform:none"><div>Computer Science II</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/3rd-sem/electronic-circuits-lab.html" style="text-transform:none"><div>Electronic Circuits Lab</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/3rd-sem/embedded-deep-learning-huawei-atlas.html" style="text-transform:none"><div>Embedded Deep Learning with Huawei Atlas 200 AI Dev Kit</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/3rd-sem/introduction-to-microeconomics.html" style="text-transform:none"><div>Introduction to Microeconomics</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/3rd-sem/financial-market-risks.html" style="text-transform:none"><div>	Financial Market Risks</div></a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                    <ul class="sub-menu-container mega-menu-column col-lg-3">
+                      <li class="menu-item mega-menu-title">
+                        <a class="menu-link" href="/education/eth.html#4th-semester"><div><s>4th Semester Bachelor</s></div></a>
+                        <ul class="sub-menu-container">
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/4th-sem/computer-engineering.html" style="text-transform:none"><div>Computer Engineering</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/4th-sem/signal-&-systems-2.html" style="text-transform:none"><div>Signals &amp Systems 2</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/4th-sem/electronic-circuits.html" style="text-transform:none"><div>Electronic Circuits</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/4th-sem/discrete-mathematics.html" style="text-transform:none"><div>Discrete Mathematics</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/4th-sem/numerical-methods.html" style="text-transform:none"><div>Numerical Methods</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/4th-sem/electromagnetic-fields-&-waves.html" style="text-transform:none"><div>Electromagnetic Fields &amp Waves</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/4th-sem/semiconductor-devices.html" style="text-transform:none"><div>Semiconductor Devices</div></a>
+                          </li>
+                          <li class="menu-item">
+                            <a class="menu-link" href="/education/eth/4th-sem/probability-theory-&-statistics.html" style="text-transform:none"><div>Probability Theory &amp Statistics</div></a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="menu-item mega-menu">
+              <a class="menu-link" href="/education/eth.html#Core"><div>College ETH - Core</div></a>
               <div class="mega-menu-content mega-menu-style-2">
                 <div class="container">
                   <div class="row">
                     <ul class="sub-menu-container mega-menu-column col-lg-6">
                       <li class="menu-item mega-menu-title">
-                        <a class="menu-link" href="/student/jkupfersc/education/eth.php#5th-semester"><div>5th Semester Bachelor</div></a>
+                        <a class="menu-link" href="/education/eth.html#5th-semester"><div>5th Semester Bachelor</div></a>
                         <ul class="sub-menu-container">
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/high-frequency-design-techniques.php" style="text-transform:none"><div><s>High-Frequency Design Techniques</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/high-frequency-design-techniques.html" style="text-transform:none"><div><s>High-Frequency Design Techniques</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/computational-thinking.php" style="text-transform:none"><div>Computational Thinking</div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/computational-thinking.html" style="text-transform:none"><div>Computational Thinking</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/control-systems.php" style="text-transform:none"><div><s>Control Systems</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/control-systems.html" style="text-transform:none"><div><s>Control Systems</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/solid-state-electronics-&-optics.php" style="text-transform:none"><div><s>Solid State Electronics and Optics</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/solid-state-electronics-&-optics.html" style="text-transform:none"><div><s>Solid State Electronics and Optics</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/vlsi-1.php" style="text-transform:none"><div><s>VLSI 1</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/vlsi-1.html" style="text-transform:none"><div><s>VLSI 1</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/embedded-systems.php" style="text-transform:none"><div><s>Embedded Systems</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/embedded-systems.html" style="text-transform:none"><div><s>Embedded Systems</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/discrete-event-systems.php" style="text-transform:none"><div><s>Discrete Event Systems</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/discrete-event-systems.html" style="text-transform:none"><div><s>Discrete Event Systems</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/analog-integrated-circuits.php" style="text-transform:none"><div><s>Analog Integrated Circuits</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/analog-integrated-circuits.html" style="text-transform:none"><div><s>Analog Integrated Circuits</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/discrete-time-&-statistical-signal.php" style="text-transform:none"><div><s>Discrete-Time and Statistical Signal</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/discrete-time-&-statistical-signal.html" style="text-transform:none"><div><s>Discrete-Time and Statistical Signal</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/introduction-to-estimation-&-machine-learning.php" style="text-transform:none"><div><s>Introduction to Estimation and Machine Learning</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/introduction-to-estimation-&-machine-learning.html" style="text-transform:none"><div><s>Introduction to Estimation and Machine Learning</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/bioelectronics-&-biosensors.php" style="text-transform:none"><div><s>Bioelectronics and Biosensors</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/bioelectronics-&-biosensors.html" style="text-transform:none"><div><s>Bioelectronics and Biosensors</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/qubits-electrons-photons.php" style="text-transform:none"><div><s>Qubits, Electrons, Photons</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/qubits-electrons-photons.html" style="text-transform:none"><div><s>Qubits, Electrons, Photons</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/5th-sem/biomedical-imaging.php" style="text-transform:none"><div><s>Biomedical Imaging</s></div></a>
+                            <a class="menu-link" href="/education/eth/5th-sem/biomedical-imaging.html" style="text-transform:none"><div><s>Biomedical Imaging</s></div></a>
                           </li>
                         </ul>
                       </li>
                     </ul>
                     <ul class="sub-menu-container mega-menu-column col-lg-6">
                       <li class="menu-item mega-menu-title">
-                        <a class="menu-link" href="/student/jkupfersc/education/eth.php#6th-semester"><div>6th Semester Bachelor</div></a>
+                        <a class="menu-link" href="/education/eth.html#6th-semester"><div>6th Semester Bachelor</div></a>
                         <ul class="sub-menu-container">
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/6th-sem/nano-drone-bp.php" style="text-transform:none"><div>Nano-Drone Bachelor Project</div></a>
+                            <a class="menu-link" href="/education/eth/6th-sem/nano-drone-bp.html" style="text-transform:none"><div>Nano-Drone Bachelor Project</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/6th-sem/communication-networks.php" style="text-transform:none"><div><s>Communication Networks</s></div></a>
+                            <a class="menu-link" href="/education/eth/6th-sem/communication-networks.html" style="text-transform:none"><div><s>Communication Networks</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/6th-sem/neural-systems.php" style="text-transform:none"><div><s>Neural Systems</s></div></a>
+                            <a class="menu-link" href="/education/eth/6th-sem/neural-systems.html" style="text-transform:none"><div><s>Neural Systems</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/6th-sem/optics-&-photonics.php" style="text-transform:none"><div>Optics and Photonics</div></a>
+                            <a class="menu-link" href="/education/eth/6th-sem/optics-&-photonics.html" style="text-transform:none"><div>Optics and Photonics</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/6th-sem/intro-to-machine-learning.php" style="text-transform:none"><div>Intro to Machine Learning</div></a>
+                            <a class="menu-link" href="/education/eth/6th-sem/intro-to-machine-learning.html" style="text-transform:none"><div>Intro to Machine Learning</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/6th-sem/international-economics.php" style="text-transform:none"><div><s>International Economics</s></div></a>
+                            <a class="menu-link" href="/education/eth/6th-sem/international-economics.html" style="text-transform:none"><div><s>International Economics</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/6th-sem/financial-economics.php" style="text-transform:none"><div>Financial Economics</div></a>
+                            <a class="menu-link" href="/education/eth/6th-sem/financial-economics.html" style="text-transform:none"><div>Financial Economics</div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/6th-sem/financial-management.php" style="text-transform:none"><div><s>Financial Management</s></div></a>
+                            <a class="menu-link" href="/education/eth/6th-sem/financial-management.html" style="text-transform:none"><div><s>Financial Management</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/6th-sem/clean-room-tech.php" style="text-transform:none"><div><s>Clean Room Technology</s></div></a>
+                            <a class="menu-link" href="/education/eth/6th-sem/clean-room-tech.html" style="text-transform:none"><div><s>Clean Room Technology</s></div></a>
                           </li>
                           <li class="menu-item">
-                            <a class="menu-link" href="/student/jkupfersc/education/eth/6th-sem/applied-circuit-&-pcb-design.php" style="text-transform:none"><div><s>Applied Circuit and PCB design</s></div></a>
+                            <a class="menu-link" href="/education/eth/6th-sem/applied-circuit-&-pcb-design.html" style="text-transform:none"><div><s>Applied Circuit and PCB design</s></div></a>
                           </li>
                         </ul>
                       </li>
@@ -463,7 +463,7 @@
 
         </nav><!-- #primary-menu end -->
 
-        <form class="top-search-form" action="/student/jkupfersc/search.php" method="get">
+        <form class="top-search-form" action="search.html" method="get">
           <input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter.." autocomplete="off">
         </form>
 
